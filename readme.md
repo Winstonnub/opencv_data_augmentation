@@ -10,5 +10,7 @@ pip install opencv-python numpy
 ### Folder Structure
 .
 ├─ pics/            # your input images (.jpg/.png/…)
+
 ├─ output/          # augmented images will be saved here
+
 └─ opencv_data_augmentation.ipynb  # notebook with examples
